@@ -1,0 +1,20 @@
+[
+  {
+    "img": "portfolioOS.png",
+    "local": true,
+    "title": "PortfolioOS",
+    "description": "Portfolio yang memiliki konsep desktop dan floating window menggunakan library winbox.js."
+  },
+  {
+    "img": "project1.png",
+    "local": true,
+    "title": "Astro Typewriter Portfolio",
+    "description": "Web portofolio bertema anime/minimalis yang dilengkapi dengan komponen efek typewriter interaktif dan efek parallax scrolling."
+  },
+  {
+    "img": "portfolio.png",
+    "local": true,
+    "title": "Terminal Portfolio",
+    "description": "Portofolio bertema antarmuka terminal/CLI yang menampilkan spesifikasi developer, standar rekayasa perangkat lunak, dan proyek-proyek ekosistem Linux."
+  }
+]

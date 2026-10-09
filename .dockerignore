@@ -1,0 +1,15 @@
+# depedensi lokal
+node_modules
+
+# Cache / hasil build lokal
+.next
+.git
+.gitignore
+
+# Dokumentasi & file config lokal yang tidak dipakai saat runtime
+README.md
+CLAUDE.md
+AGENTS.md
+Dockerfile
+compose.yml
+.dockerignore
