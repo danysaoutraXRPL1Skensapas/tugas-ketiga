@@ -56,7 +56,7 @@ const Dialog = styled.dialog`
   background-color: #0f1c3f;
   color: #eaeaea;
   box-shadow: 5px 4px #000000ad;
-
+  margin: auto;
   &::backdrop {
     background: rgba(0, 0, 0, 0.6);
   }
